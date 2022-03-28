@@ -11,3 +11,6 @@ By default, powershell does not allow all scripts to be run in it. The execution
 
 ### Running powershell scripts in the Windows Terminal
 When the above steps have been followed you can run the script in powershell. This is done with the `./<script-name>` command.
+
+# VS Code Cheatsheet
+![image](https://user-images.githubusercontent.com/33719197/160449999-f40f39ee-ba21-4241-b026-17c4fc26ba6a.png)
